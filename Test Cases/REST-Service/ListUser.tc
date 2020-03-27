@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>ListUser</name>
-   <tag></tag>
+   <tag>test</tag>
    <comment></comment>
    <testCaseGuid>2e2b675c-a304-4801-afe4-8951ae04fed9</testCaseGuid>
 </TestCaseEntity>
